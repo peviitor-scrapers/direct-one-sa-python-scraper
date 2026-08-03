@@ -1,0 +1,16 @@
+{
+  "id": "22913844",
+  "company": "DIRECT ONE SA",
+  "brand": "DIRECT ONE",
+  "status": "activ",
+  "location": [
+    "Bucuresti"
+  ],
+  "website": [
+    "http://directone.ro"
+  ],
+  "career": [
+    "https://e-infra.ro/careers/"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/direct-one-sa-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
