@@ -1,1 +1,1 @@
-"""Electrogrup Python scraper package."""
+"""DIRECT ONE Python scraper package."""
