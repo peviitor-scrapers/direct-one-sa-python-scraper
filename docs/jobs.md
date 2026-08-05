@@ -8,14 +8,14 @@
 | Brand | DIRECT ONE |
 | Website | http://directone.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-08-04 |
+| LastScraped | 2026-08-05 |
 
-## Jobs (2)
+## Jobs (3)
 
 ### BMS Engineer
 
 - **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/1MXoBxiMSp](https://electrogrup.applytojob.com/apply/jobs/details/1MXoBxiMSp)
-- **Location**: România
+- **Location**: Bucuresti
 - **Status**: scraped
 
 ### BMS Engineer
@@ -24,5 +24,11 @@
 - **Location**: Cluj-Napoca
 - **Status**: scraped
 
+### Tehnician Telecomunicatii
+
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/fCaUDvuZ3Z](https://electrogrup.applytojob.com/apply/jobs/details/fCaUDvuZ3Z)
+- **Location**: Brasov
+- **Status**: scraped
+
 ---
-_Generated at 2026-08-04T08:32:42Z_
+_Generated at 2026-08-05T08:31:38Z_
