@@ -8,7 +8,7 @@
 | Brand | DIRECT ONE |
 | Website | http://directone.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-10-04 |
+| LastScraped | 2026-10-05 |
 
 ## Jobs (7)
 
@@ -55,4 +55,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-10-04T11:46:16Z_
+_Generated at 2026-10-05T13:34:39Z_
