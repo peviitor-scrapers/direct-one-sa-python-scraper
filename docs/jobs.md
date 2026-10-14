@@ -8,9 +8,9 @@
 | Brand | DIRECT ONE |
 | Website | http://directone.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-10-13 |
+| LastScraped | 2026-10-14 |
 
-## Jobs (6)
+## Jobs (7)
 
 ### Coordonator Tehnic
 
@@ -22,6 +22,12 @@
 
 - **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/zD1IS6ZYxQ](https://electrogrup.applytojob.com/apply/jobs/details/zD1IS6ZYxQ)
 - **Location**: Cluj-Napoca
+- **Status**: scraped
+
+### Inginer NOC
+
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/3cK2yXgMjn](https://electrogrup.applytojob.com/apply/jobs/details/3cK2yXgMjn)
+- **Location**: Bucuresti
 - **Status**: scraped
 
 ### Technical Manager
@@ -49,4 +55,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-10-13T13:32:56Z_
+_Generated at 2026-10-14T11:09:35Z_
