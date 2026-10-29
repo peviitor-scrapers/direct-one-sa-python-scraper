@@ -8,9 +8,9 @@
 | Brand | DIRECT ONE |
 | Website | http://directone.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-10-28 |
+| LastScraped | 2026-10-29 |
 
-## Jobs (7)
+## Jobs (8)
 
 ### Coordonator Tehnic
 
@@ -28,6 +28,12 @@
 
 - **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/3cK2yXgMjn](https://electrogrup.applytojob.com/apply/jobs/details/3cK2yXgMjn)
 - **Location**: Bucuresti
+- **Status**: scraped
+
+### Inginer Proiectant Joasa Tensiune & Curenti Slabi
+
+- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/EtbUWrw5yM](https://electrogrup.applytojob.com/apply/jobs/details/EtbUWrw5yM)
+- **Location**: Cluj-Napoca
 - **Status**: scraped
 
 ### Technical Manager
@@ -55,4 +61,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-10-28T12:05:39Z_
+_Generated at 2026-10-29T12:16:41Z_
