@@ -8,15 +8,9 @@
 | Brand | DIRECT ONE |
 | Website | http://directone.ro |
 | Career | https://e-infra.ro/careers/ |
-| LastScraped | 2026-11-21 |
+| LastScraped | 2026-11-22 |
 
-## Jobs (8)
-
-### Coordonator Tehnic
-
-- **URL**: [https://electrogrup.applytojob.com/apply/jobs/details/MaHGDTthQO](https://electrogrup.applytojob.com/apply/jobs/details/MaHGDTthQO)
-- **Location**: Bucuresti
-- **Status**: scraped
+## Jobs (7)
 
 ### Coordonator Tehnic
 
@@ -61,4 +55,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-21T14:11:42Z_
+_Generated at 2026-11-22T14:01:17Z_
